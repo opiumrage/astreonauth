@@ -1,0 +1,14 @@
+.git
+.gitignore
+.github
+README.md
+LICENSE
+*.md
+.DS_Store
+Thumbs.db
+node_modules
+vendor
+*.log
+.env
+.env.local
+
